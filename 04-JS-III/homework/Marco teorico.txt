@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+
+Se puede definir Array como una estructura que permite almacenar un conjunto de datos.
+Es importante destacar que en JS los arreglos no estan fuertemente tipados, por lo que no solo simplemente
+permiten almacenar datos de un solo tipo, por ejemplo enteros, sino que dentro de un arreglo puedo almacenar
+caracteres, enteros, arreglos , funciones , etc.
+
